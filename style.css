@@ -1,0 +1,53 @@
+body{
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive;
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive; */
+margin: 0;
+padding: 40px 20px;
+}
+
+.color-text{
+    color: #8043A2;
+}
+
+.color-btn{
+    text-decoration: none;
+    background-color: #8043A2;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px; 
+}
+
+section{
+    display: flex;
+}
+
+.half-side{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-side img{
+    width: 80%;
+}
+
+.sidebar-text{
+    font-size: 35px;
+    border-left: 4px solid #8043A2;
+    padding-left: 10px;
+    font-family: 'Yeseva One', cursive;
+}
+
+.left-side{
+    padding-top: 50px;
+}
+
+.paragraph{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+}
