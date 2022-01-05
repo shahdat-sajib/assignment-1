@@ -97,3 +97,35 @@ padding: 40px 20px;
     border-radius: 5%;
     padding: 20px;
 }
+
+.h2-text{
+    font-family: 'Yeseva One', cursive;
+}
+
+.section-3{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    padding-top: 60px;
+    background-position-x: left;
+    background-position-y: center;
+}
+
+.develop-part{
+    padding-right: 50px;
+}
+.develop-part2{
+    padding-left: 50px;
+}
+
+.section-4{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-position-x: right;
+    background-position-y: bottom;
+}
