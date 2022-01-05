@@ -5,7 +5,7 @@ font-family: 'Yeseva One', cursive;
 font-family: 'Poppins', sans-serif;
 font-family: 'Yeseva One', cursive; */
 margin: 0;
-padding: 40px 20px;
+padding: 30px 20px 0px;
 }
 
 .color-text{
@@ -64,6 +64,7 @@ padding: 40px 20px;
 .heading{
     text-align: center;
     font-size: 25px;
+    font-family: 'Yeseva One', cursive;
 }
 
 .mission-part{
@@ -128,4 +129,15 @@ padding: 40px 20px;
     padding-bottom: 50px;
     background-position-x: right;
     background-position-y: bottom;
+}
+
+footer{
+    background-color: #0B0D17;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.footer-text{
+    font-family: 'Lobster', cursive;
+    font-size: 14px;
 }
