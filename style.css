@@ -20,8 +20,10 @@ padding: 40px 20px;
     border-radius: 5px; 
 }
 
-section{
+.first-section{
     display: flex;
+    align-items: center;
+    padding-bottom: 20px;
 }
 
 .half-side{
@@ -45,9 +47,53 @@ section{
 }
 
 .paragraph{
-    padding-top: 20px;
     padding-bottom: 20px;
     font-size: 15px;
     color: grey;
     font-family: 'Poppins', sans-serif;
+}
+
+.blue-text{
+    color: orangered;
+}
+
+.orange-text{
+    color: rgb(2, 2, 134);
+}
+
+.heading{
+    text-align: center;
+    font-size: 25px;
+}
+
+.mission-part{
+    display: flex;
+    padding: 20px 40px;
+}
+.h3-text{
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-img{
+    width: 60%;
+}
+
+.card1{
+    background-color: #EEF6F7;
+    border-radius: 5%;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.card2{
+    background-color: #FFEFEF;
+    border-radius: 5%;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.card3{
+    background-color: #FFF4D6;
+    border-radius: 5%;
+    padding: 20px;
 }
