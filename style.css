@@ -35,6 +35,11 @@ padding: 30px 20px 0px;
     width: 80%;
 }
 
+.half-side2 img{
+    width: 60%;
+    padding-left: 30%;
+}
+
 .sidebar-text{
     font-size: 35px;
     border-left: 4px solid #8043A2;
@@ -69,27 +74,27 @@ padding: 30px 20px 0px;
 
 .mission-part{
     display: flex;
-    padding: 20px 40px;
+    padding: 20px 100px;
 }
 .h3-text{
     font-family: 'Poppins', sans-serif;
 }
 
 .card-img{
-    width: 60%;
+    width: 40%;
 }
 
 .card1{
     background-color: #EEF6F7;
     border-radius: 5%;
-    padding: 20px;
+    padding: 20px 20px 50px;
     margin-right: 20px;
 }
 
 .card2{
     background-color: #FFEFEF;
     border-radius: 5%;
-    padding: 20px;
+    padding: 40px;
     margin-right: 20px;
 }
 
@@ -97,6 +102,7 @@ padding: 30px 20px 0px;
     background-color: #FFF4D6;
     border-radius: 5%;
     padding: 20px;
+    margin-right: 20px;
 }
 
 .h2-text{
@@ -164,7 +170,7 @@ footer{
 
 .price-card{
     border-radius: 5%;
-    box-shadow: 5px 5px 15px grey;
+    box-shadow: 5px 10px 15px grey;
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
