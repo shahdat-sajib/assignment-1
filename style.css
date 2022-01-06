@@ -141,3 +141,41 @@ footer{
     font-family: 'Lobster', cursive;
     font-size: 14px;
 }
+
+.task-flex{
+    display: flex;
+    align-items: center;
+}
+
+.task-paragraph{
+    font-size: 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pricing-section{
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: space-evenly;
+}
+
+.price-card{
+    border-radius: 5%;
+    box-shadow: 5px 5px 15px grey;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+}
+
+.hire-btn{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3{
+    font-family: 'Yeseva One', cursive;  
+}
